@@ -2,7 +2,7 @@
 
 Responsive landing page built from a Figma design as a test task for the **Web Developer** position at Alpha Efficiency.
 
-🔗 **Live preview:** _(Vercel link here)_
+🔗 **Live preview:** https://alpha-efficiency-test-six.vercel.app
 
 ## Built with
 
